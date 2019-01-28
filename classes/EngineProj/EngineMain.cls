@@ -4,6 +4,14 @@
 
 public with sharing class EngineMain {
 
+public void MethodA() {
+
+MethodA
+
+}		
+
+
+
     // вытягиваем списки двигателей\ машин и деталей
     public List <engine__c> engineFullList(){
         List <engine__c> allEngines = [ SELECT id, name FROM engine__c ];
