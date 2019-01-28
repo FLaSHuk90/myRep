@@ -4,12 +4,18 @@
 
 public with sharing class EngineMain {
 
+
 public void MethodA() {
 
 MethodA
 
 }		
 
+
+    public void MethodB(){
+
+	MethodB
+}
 
 
     // вытягиваем списки двигателей\ машин и деталей
