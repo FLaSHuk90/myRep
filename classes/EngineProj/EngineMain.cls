@@ -7,15 +7,18 @@ public with sharing class EngineMain {
 
 public void MethodA() {
 
-MethodA
+MethodA;
 
 }		
 
 
     public void MethodB(){
 
-	MethodB
+	MethodB;
 }
+    public void methodC() {
+        methodC;
+    }
 
 
     // вытягиваем списки двигателей\ машин и деталей
